@@ -657,19 +657,6 @@
 	</div>
 	<div class="seperate"></div>
 	<div id="index">
-		<div class="overload">
-			<img src="/res/img/pageindex/logos/tsuki.png" /><img src="/res/img/pageindex/right.png" />
-			<div class="indexlist"><span><a href="/index.php">HOME</a> | <a href="/status.php">STATUS</a> | <a href="/calculator.php">CALCULATOR</a> | <a href="/register.php">REGISTER</a> | <a href="/listing.php">LISTING</a> | <a href="/glossary.php">GLOSSARY</a> | <a href="/faq.php">FAQ</a> | <a href="/news.php">NEWS</a> | <a href="/dataverses/">DATAVERSES</a> | <a href="/dataverses/Compendium/">COMPENDIUM</a> | <a href="/music.php">MUSIC BOX</a> | <a href="/representative.php">REPRESENTATIVE</a></span></div><br>
-			<img src="/res/img/pageindex/logos/synapse.png" /><img src="/res/img/pageindex/right.png" />
-			<div class="indexlist"><span><a href="/synapse/eot.php">EoT</a> | <a href="/synapse/explore.php" class="overno">EXPLORE LFE</a> | <a href="/synapse/about.php">ABOUT</a></span></div><br>
-			<img src="/res/img/pageindex/logos/risen.png" /><img src="/res/img/pageindex/right.png" />
-			<div class="indexlist"><span><a href="/risen/systemspace.php" class="overno">SYSTEMSPACE</a> | <a href="/risen/goal.php">OUR GOAL</a> | <a href="/risen/eot.php">EoT</a> | <a href="/risen/about.php">ABOUT</a></span></div><br>
-			<img src="/res/img/pageindex/logos/endymion.png" /><img src="/res/img/pageindex/right.png" />
-			<div class="indexlist"><span><a href="/endymion/role.php" class="overno">OUR ROLE</a> | <a href="/endymion/eot.php">EoT</a> | <a href="/endymion/about.php">ABOUT</a></span></div><br>
-			<img src="/res/img/pageindex/logos/kahgy.png" /><img src="/res/img/pageindex/right.png" />
-			<div class="indexlist"><span><a href="/representative.php">TSUKIREP</a> | <a href="/kahgy/ghendyts.php" class="overno">GHENDYTS</a> | <a href="/kahgy/eot.php">EoT</a> | <a href="/kahgy/about.php">ABOUT</a></span></div>
-			<center><a href="/unlock.php"><img src="/res/img/pageindex/more.png" /></a></center>
-		</div>
 	</div>
 	<center>This site is intended as an archive of the version of systemspace.link that was up during 2017. Please visit <a class="link" href="/copyright.php">Copyright</a> for more information. - <a id="replay">replay intro</span></center>
 </body>
